@@ -44,19 +44,19 @@ The result? A zen-like experience that feels fast, calm, and addictive.
 ### Main Layout
 
 ```text
-┌───────────────────────┬──────────────────────────────┐
-│  📁 Folders           │  📝 Note Editor              │
-│                       │                              │
-│  • Projects           │  # Meeting notes             │
-│    • note1.md         │  • Discuss Q3 roadmap        │
-│    • note2.md         │  • Follow up with design     │
-│                       │                              │
-│  • Ideas              │                              │
-│                       │                              │
-├───────────────────────┴──────────────────────────────┤
-│  n = New note   N = New folder   d = Delete   r = Rename │
-│  / = Search     Enter = Open     Space = Select   q = Quit │
-└────────────────────────────────────────────────────────┘
+╭───────────────────────────┬──────────────────────────────────────╮
+│  📁 Folders               │  📝 Note Editor                       │
+│                           │                                      │
+│  • Projects               │  # Meeting notes                     │
+│    • note1.md             │  • Discuss Q3 roadmap                │
+│    • note2.md             │  • Follow up with design             │
+│                           │                                      │
+│  • Ideas                  │                                      │
+│                           │                                      │
+├───────────────────────────┴──────────────────────────────────────┤
+│  n = New note   N = New folder   d = Delete       r = Rename     │
+│  / = Search     Enter = Open     Space = Select   q = Quit       │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
 
