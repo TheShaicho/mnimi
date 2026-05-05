@@ -6,13 +6,15 @@
 > Inspired by the simplicity of **Apple Notes** and the buttery-smooth UX of **lazygit**.
 
 ---
+<div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Early%20Development-FF9800)
 ![Go](https://img.shields.io/badge/Language-Go-00ADD8)
-![Bubble Tea](https://img.shields.io/badge/TUI-Bubble%20Tea-5C2D91)
+![Bubble%20Tea](https://img.shields.io/badge/TUI-Bubble%20Tea-5C2D91)
 ![Linux](https://img.shields.io/badge/Platform-Linux-FF9900)
 ![macOS](https://img.shields.io/badge/Platform-macOS-000000)
 
+</div>
 ---
 
 ## ✨ Vision
