@@ -5,7 +5,6 @@
 > Inspired by the simplicity of **Apple Notes** and the buttery-smooth UX of **lazygit**.
 
 ---
-<div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Early%20Development-FF9800)
 ![Go](https://img.shields.io/badge/Language-Go-00ADD8)
@@ -13,7 +12,6 @@
 ![Linux](https://img.shields.io/badge/Platform-Linux-FF9900)
 ![macOS](https://img.shields.io/badge/Platform-macOS-000000)
 
-</div>
 ---
 
 ## ✨ Vision
@@ -60,7 +58,7 @@ The result? A zen-like experience that feels fast, calm, and addictive.
 │  / = Search     Enter = Open     Space = Select   q = Quit │
 └────────────────────────────────────────────────────────┘
 ```
-````
+
 
 Clean split-pane layout. Left sidebar for folders & notes. Right side is the full editor. Bottom status bar shows available actions.
 
