@@ -1,4 +1,3 @@
-````markdown
 # Mnimi 🧠
 
 **A beautiful, minimal and addictive terminal note-taking app.**
